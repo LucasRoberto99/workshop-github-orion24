@@ -12,6 +12,7 @@ function App() {
         vitae laborum saepe, maxime ullam tempora accusantium ab. Quo,
         asperiores.
       </p>
+      <span>Salut</span>
     </>
   );
 }
