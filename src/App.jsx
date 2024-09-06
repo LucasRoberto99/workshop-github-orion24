@@ -5,7 +5,7 @@ function App() {
   return (
     <>
       <Header />
-      <p style={{ backgroundColor: "blue" }}>Ceci est une modification</p>
+      <p style={{ backgroundColor: "orange" }}>Ceci est une modification</p>
     </>
   );
 }
